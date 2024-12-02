@@ -1,5 +1,6 @@
 import { Slider } from "@/components/ui/slider"
 import { Label } from "@/components/ui/label"
+// import type Weights from "@/types/weights"
 
 const sliderConfig = [
   { name: 'salsa', label: 'SALSA' },
@@ -11,8 +12,8 @@ const sliderConfig = [
 ]
 
 export default function WeightSliders({ weights, setWeights }) {
-  const handleSliderChange = (name, value) => {
-    setWeights(prev => ({ ...prev, [name]: value[0] }))
+  const handleSliderChange = (name, value ) => {
+    setWeights((prev) => ({ ...prev, [name]: value[0] }))
   }
 
   return (

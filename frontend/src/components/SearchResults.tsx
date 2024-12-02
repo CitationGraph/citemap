@@ -6,8 +6,9 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
+import type Paper from "@/types/paper";
 
-export default function SearchResults({ results }) {
+export default function SearchResults({ results }: { results: Paper[] }) {
   return (
     <div className="h-full flex flex-col">
       <h2 className="text-2xl font-semibold mb-4">Search Results</h2>
@@ -20,7 +21,7 @@ export default function SearchResults({ results }) {
             </TableRow>
           </TableHeader>
           <TableBody>
-            {results.map((paper, index) => (
+            {results.map((paper: Paper, index: number) => (
               <TableRow key={index}>
                 <TableCell className="font-medium">{paper.title}</TableCell>
                 <TableCell>{paper.author}</TableCell>

@@ -6,6 +6,7 @@ import WeightSliders from './WeightSliders'
 import SearchResults from './SearchResults'
 import NodeGraph from './NodeGraph'
 import { searchPapers } from 'src/utils/mockapi'
+import type Paper  from 'src/types/paper'
 
 export default function SearchInterface() {
   const [query, setQuery] = useState('')
@@ -17,7 +18,7 @@ export default function SearchInterface() {
     semanticSimilarity: 0.5,
     publishDate: 0.5
   })
-  const [results, setResults] = useState([])
+  const [results, setResults] = useState<Paper[]>([])
   const [hasSearched, setHasSearched] = useState(false)
 
   const handleSearch = async () => {
