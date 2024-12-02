@@ -1,17 +1,5 @@
-interface Paper {
-  title: string;
-  author: string;
-  score: number;
-}
-
-interface Weights {
-  salsa: number;
-  hits: number;
-  pageRank: number;
-  eigenvector: number;
-  semanticSimilarity: number;
-  publishDate: number;
-}
+import type Paper from "../types/paper";
+import type Weights from "../types/weights";
 
 const mockPapers: Paper[] = [
   { title: "Advances in Machine Learning", author: "A. Smith", score: 0 },
