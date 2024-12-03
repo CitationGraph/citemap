@@ -1,5 +1,11 @@
 # Astro Starter Kit: Basics
 
+## Dataset
+
+Download the dataset from https://www.aminer.cn/citation
+
+Place the dataset at the following location: data/datasetV1.txt
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
