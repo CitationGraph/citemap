@@ -13,6 +13,10 @@ except Exception as e:
     print(f"Error loading the graph: {e}")
     citation_graph = nx.DiGraph()
 
+@app.route('/')
+def home():
+    return 'Hello World!'
+
 @app.route('/search', methods=['GET'])
 def search_papers():
     query = request.args.get('query', '').lower()
