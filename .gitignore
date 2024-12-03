@@ -4,3 +4,5 @@ poetry.lock
 __pycache__/
 env/
 
+data/datasetV1.txt
+data/datasetV1Processed.txt

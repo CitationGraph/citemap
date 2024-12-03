@@ -1,0 +1,2102 @@
+{
+  "results": [
+    {
+      "authors": "",
+      "overall_score": 1,
+      "paper_id": "246511",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.9612054569828465,
+      "paper_id": "311413",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.9088243908841442,
+      "paper_id": "586607",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.8484424781825854,
+      "paper_id": "214951",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.6104200239263696,
+      "paper_id": "362949",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.5786868149386465,
+      "paper_id": "232309",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.5008176886508818,
+      "paper_id": "207703",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Sergey Brin,Rajeev Motwani,Craig Silverstein",
+      "overall_score": 0.4747435639456292,
+      "paper_id": "92489",
+      "title": "Beyond market baskets: generalizing association rules to correlations",
+      "year": "1997"
+    },
+    {
+      "authors": "Jan Bakus,Mohamed S. Kamel",
+      "overall_score": 0.4655027163984939,
+      "paper_id": "25552",
+      "title": "Higher order feature selection for text classification",
+      "year": "2006"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.45775094724581966,
+      "paper_id": "453387",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Charų C. Aggarwal,Zheng Sun,Philip S. Yu",
+      "overall_score": 0.4543631879292831,
+      "paper_id": "90116",
+      "title": "Online algorithms for finding profile association rules",
+      "year": "1998"
+    },
+    {
+      "authors": "Dimitrios Papakiriakopoulos,Katerina Pramatari,Georgios Doukidis",
+      "overall_score": 0.4496944076949491,
+      "paper_id": "62135",
+      "title": "A decision support system for detecting products missing from the shelf based on heuristic rules",
+      "year": "2009"
+    },
+    {
+      "authors": "Elena Baralis,Giuseppe Psaila",
+      "overall_score": 0.4466623724120448,
+      "paper_id": "83787",
+      "title": "Designing Templates for Mining Association Rules",
+      "year": "1997"
+    },
+    {
+      "authors": "Floris Geerts,Bart Goethals,Jan Van Den Bussche",
+      "overall_score": 0.43352427513464775,
+      "paper_id": "98154",
+      "title": "Tight upper bounds on the number of candidate patterns",
+      "year": "2005"
+    },
+    {
+      "authors": "R. J. Miller,Y. Yang",
+      "overall_score": 0.43229899876233874,
+      "paper_id": "86564",
+      "title": "Association rules over interval data",
+      "year": "1997"
+    },
+    {
+      "authors": "Lilian Harada,Naoki Akaboshi,Kazutaka Ogihara,Riichiro Take",
+      "overall_score": 0.4271401728364656,
+      "paper_id": "83780",
+      "title": "Dynamic skew handling in parallel mining of association rules",
+      "year": "1998"
+    },
+    {
+      "authors": "James Cheng,Yiping Ke,Wilfred Ng",
+      "overall_score": 0.42409426941470246,
+      "paper_id": "50568",
+      "title": "A survey on algorithms for mining frequent itemsets over data streams",
+      "year": "2008"
+    },
+    {
+      "authors": "Bing Liu,Kaidi Zhao,Jeffrey Benkler,Weimin Xiao",
+      "overall_score": 0.419064430616942,
+      "paper_id": "31335",
+      "title": "Rule interestingness analysis using OLAP operations",
+      "year": "2006"
+    },
+    {
+      "authors": "Qiang Yang",
+      "overall_score": 0.41234258314959876,
+      "paper_id": "27989",
+      "title": "Extracting Actionable Knowledge from Decision Trees",
+      "year": "2007"
+    },
+    {
+      "authors": "Chun-Wei Lin,Tzung-Pei Hong,Wen-Hsiang Lu",
+      "overall_score": 0.4118477637988721,
+      "paper_id": "59170",
+      "title": "The Pre-FUFP algorithm for incremental mining",
+      "year": "2009"
+    },
+    {
+      "authors": "Tzung-Pei Hong,Chun-Wei Lin,Yu-Lung Wu",
+      "overall_score": 0.3999207422664239,
+      "paper_id": "64227",
+      "title": "Maintenance of fast updated frequent pattern trees for record deletion",
+      "year": "2009"
+    },
+    {
+      "authors": "Kaidi Zhao,Bing Liu,Jeffrey Benkler,Weimin Xiao",
+      "overall_score": 0.3996210990779951,
+      "paper_id": "24320",
+      "title": "Opportunity map: identifying causes of failure - a deployed data mining system",
+      "year": "2006"
+    },
+    {
+      "authors": "Tao Jiang Ah-Hwee Tan",
+      "overall_score": 0.39601466289120935,
+      "paper_id": "32356",
+      "title": "Mining Generalized Associations of Semantic Relations from Textual Web Content",
+      "year": "2007"
+    },
+    {
+      "authors": "Qutang Cai,Changshui Zhang,Chunyi Peng",
+      "overall_score": 0.3948920210649572,
+      "paper_id": "54775",
+      "title": "Analysis of classification margin for classification accuracy with applications",
+      "year": "2009"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.3924961317634604,
+      "paper_id": "517247",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Jiuyong Li,Ada Wai-chee Fu,Paul Fahey",
+      "overall_score": 0.38905543244631463,
+      "paper_id": "65903",
+      "title": "Efficient discovery of risk patterns in medical data",
+      "year": "2009"
+    },
+    {
+      "authors": "Jong Soo Park,Philip S. Yu,Ming-Syan Chen",
+      "overall_score": 0.387255030720988,
+      "paper_id": "96172",
+      "title": "Mining association rules with adjustable accuracy",
+      "year": "1997"
+    },
+    {
+      "authors": "Qian Wan,Aijun An",
+      "overall_score": 0.38657130819195956,
+      "paper_id": "28474",
+      "title": "An efficient approach to mining indirect associations",
+      "year": "2006"
+    },
+    {
+      "authors": "Pedro J. García-Laencina,José-Luis Sancho-Gómez,Aníbal R. Figueiras-Vidal,Michel Verleysen",
+      "overall_score": 0.38353865632442075,
+      "paper_id": "61582",
+      "title": "K nearest neighbours with mutual information for simultaneous classification and missing data imputation",
+      "year": "2009"
+    },
+    {
+      "authors": "Carlos Ordonez,Norberto Ezquerra,Cesar A. Santana",
+      "overall_score": 0.3791450907235662,
+      "paper_id": "22754",
+      "title": "Constraining and summarizing association rules in medical data",
+      "year": "2006"
+    },
+    {
+      "authors": "Mehdi Adda,Rokia Missaoui,Petko Valtchev",
+      "overall_score": 0.3736699694102466,
+      "paper_id": "47051",
+      "title": "Relation rule mining",
+      "year": "2007"
+    },
+    {
+      "authors": "Hatim A. Aboalsamh",
+      "overall_score": 0.3714462718747182,
+      "paper_id": "67868",
+      "title": "A Boolean algebraic framework for association and pattern mining",
+      "year": "2008"
+    },
+    {
+      "authors": "Manisha Agarwal,Manisha Jailia",
+      "overall_score": 0.370077702481567,
+      "paper_id": "70274",
+      "title": "An interactive method for generalized association rule mining using FP-tree",
+      "year": "2009"
+    },
+    {
+      "authors": "Eui-Hong Han,George Karypis,Vipin Kumar",
+      "overall_score": 0.36177972998900576,
+      "paper_id": "77493",
+      "title": "Scalable parallel data mining for association rules",
+      "year": "1997"
+    },
+    {
+      "authors": "Aritz Pérez,Pedro Larraòaga,Iòaki Inza",
+      "overall_score": 0.35547029004547404,
+      "paper_id": "73532",
+      "title": "Bayesian classifiers based on kernel density estimation: Flexible classifiers",
+      "year": "2009"
+    },
+    {
+      "authors": "Gregory Buehrer,Srinivasan Parthasarathy,Amol Ghoting",
+      "overall_score": 0.3547999355426085,
+      "paper_id": "29365",
+      "title": "Out-of-core frequent pattern mining on a commodity PC",
+      "year": "2006"
+    },
+    {
+      "authors": "Sergey Brin,Rajeev Motwani,Jeffrey D. Ullman,Shalom Tsur",
+      "overall_score": 0.3544239786250439,
+      "paper_id": "81883",
+      "title": "Dynamic itemset counting and implication rules for market basket data",
+      "year": "1997"
+    },
+    {
+      "authors": "Xiao-Bai Li",
+      "overall_score": 0.3497104264877402,
+      "paper_id": "57533",
+      "title": "A Bayesian Approach for Estimating and Replacing Missing Categorical Data",
+      "year": "2009"
+    },
+    {
+      "authors": "R V Nataraj,S Selvan",
+      "overall_score": 0.3473837880976707,
+      "paper_id": "59055",
+      "title": "A framework for mining top-k frequent closed itemsets using order preserving generators",
+      "year": "2009"
+    },
+    {
+      "authors": "Mohammed Javeed Zaki,Srinivasan Parthasarathy,Wei Li",
+      "overall_score": 0.34710416344735356,
+      "paper_id": "95174",
+      "title": "A localized algorithm for parallel association mining",
+      "year": "1997"
+    },
+    {
+      "authors": "Zhi-Hua Zhou,Yuan Jiang,Shi-Fu Chen",
+      "overall_score": 0.3428744858869762,
+      "paper_id": "12506",
+      "title": "Extracting symbolic rules from trained neural network ensembles",
+      "year": "2003"
+    },
+    {
+      "authors": "Ian H. Witten,Eibe Frank",
+      "overall_score": 0.3406720580305077,
+      "paper_id": "8300",
+      "title": "Data Mining: Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems)",
+      "year": "2005"
+    },
+    {
+      "authors": "Themis P. Exarchos,Markos G. Tsipouras,Costas Papaloukas,Dimitrios I. Fotiadis",
+      "overall_score": 0.3384661186899509,
+      "paper_id": "50269",
+      "title": "A two-stage methodology for sequence classification based on sequential pattern mining and optimization",
+      "year": "2008"
+    },
+    {
+      "authors": "J. Zico Kolter,Marcus A. Maloof",
+      "overall_score": 0.336967798715081,
+      "paper_id": "39991",
+      "title": "Dynamic Weighted Majority: An Ensemble Method for Drifting Concepts",
+      "year": "2007"
+    },
+    {
+      "authors": "Keith C. C. Chan,Wai-Ho Au",
+      "overall_score": 0.3271515197520508,
+      "paper_id": "93604",
+      "title": "Mining fuzzy association rules",
+      "year": "1997"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.32558325481034917,
+      "paper_id": "616075",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Wei Li,Marco Canini,Andrew W. Moore,Raffaele Bolla",
+      "overall_score": 0.32388787671627084,
+      "paper_id": "58921",
+      "title": "Efficient application identification and the temporal and spatial stability of classification schema",
+      "year": "2009"
+    },
+    {
+      "authors": "Vincent S. Tseng,Chao-Hui Lee",
+      "overall_score": 0.3227277280515804,
+      "paper_id": "73592",
+      "title": "Effective temporal data classification by integrating sequential pattern mining and probabilistic induction",
+      "year": "2009"
+    },
+    {
+      "authors": "Son N. Nguyen,Maria E. Orlowska",
+      "overall_score": 0.32212265955877306,
+      "paper_id": "26418",
+      "title": "A further study in the data partitioning approach for frequent itemsets mining",
+      "year": "2006"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.319608719789768,
+      "paper_id": "620759",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Tom Bylander",
+      "overall_score": 0.3182407685058509,
+      "paper_id": "85327",
+      "title": "Learning probabilistically consistent linear threshold functions",
+      "year": "1997"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.31818480479856154,
+      "paper_id": "178287",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Lisa Singh,Peter Scheuermann,Bin Chen",
+      "overall_score": 0.3171814717814671,
+      "paper_id": "92312",
+      "title": "Generating association rules from semi-structured documents using an extended concept hierarchy",
+      "year": "1997"
+    },
+    {
+      "authors": "K.-L. Wu,P. S. Yu,A. Ballman",
+      "overall_score": 0.31442732949123164,
+      "paper_id": "77404",
+      "title": "SpeedTracer: a Web usage mining and analysis tool",
+      "year": "1998"
+    },
+    {
+      "authors": "Xiaowei Yan,Shichao Zhang,Chengqi Zhang",
+      "overall_score": 0.3099470198474688,
+      "paper_id": "36803",
+      "title": "ON DATA STRUCTURES FOR ASSOCIATION RULE DISCOVERY",
+      "year": "2007"
+    },
+    {
+      "authors": "Tae-Wan Ryu,Christoph F. Eick",
+      "overall_score": 0.3091531693184122,
+      "paper_id": "98006",
+      "title": "A database clustering methodology and tool",
+      "year": "2005"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.3082454375011117,
+      "paper_id": "455254",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "A. Z. Kouzani",
+      "overall_score": 0.30756249641727046,
+      "paper_id": "39287",
+      "title": "Classification of face images using local iterated function systems",
+      "year": "2008"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.30538383840681227,
+      "paper_id": "613609",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Thomas Legler,Wolfgang Lehner,Andrew Ross",
+      "overall_score": 0.3040510784816263,
+      "paper_id": "28961",
+      "title": "Data mining with the SAP NetWeaver BI accelerator",
+      "year": "2006"
+    },
+    {
+      "authors": "Hiroshi Ishii,Brygg Ullmer",
+      "overall_score": 0.3023893193462775,
+      "paper_id": "91976",
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms",
+      "year": "1997"
+    },
+    {
+      "authors": "Thomas Seidl,Ira Assent,Philipp Kranen,Ralph Krieger,Jennifer Herrmann",
+      "overall_score": 0.30223411204313594,
+      "paper_id": "67653",
+      "title": "Indexing density models for incremental learning and anytime classification on data streams",
+      "year": "2009"
+    },
+    {
+      "authors": "Ethem Alpaydin",
+      "overall_score": 0.3014030512211209,
+      "paper_id": "87081",
+      "title": "Voting over Multiple Condensed Nearest Neighbors",
+      "year": "1997"
+    },
+    {
+      "authors": "Juan J. Rodriguez,Ludmila I. Kuncheva",
+      "overall_score": 0.29985481513596896,
+      "paper_id": "35342",
+      "title": "Rotation Forest: A New Classifier Ensemble Method",
+      "year": "2006"
+    },
+    {
+      "authors": "Konrad Rieck,Pavel Laskov",
+      "overall_score": 0.29918939371792036,
+      "paper_id": "37531",
+      "title": "Linear-Time Computation of Similarity Measures for Sequential Data",
+      "year": "2008"
+    },
+    {
+      "authors": "Animesh Adhikari,P. R. Rao",
+      "overall_score": 0.29641598145148373,
+      "paper_id": "53527",
+      "title": "Mining conditional patterns in a database",
+      "year": "2008"
+    },
+    {
+      "authors": "Anthony J. T. Lee,Chun-Sheng Wang,Wan-Yu Weng,Yi-An Chen,Huei-Wen Wu",
+      "overall_score": 0.2953921234528505,
+      "paper_id": "44568",
+      "title": "An efficient algorithm for mining closed inter-transaction itemsets",
+      "year": "2008"
+    },
+    {
+      "authors": "Shawkat Ali,Kate Smith-Miles",
+      "overall_score": 0.2935493148507216,
+      "paper_id": "47165",
+      "title": "On optimal degree selection for polynomial kernel with support vector machines: Theoretical and empirical investigations",
+      "year": "2007"
+    },
+    {
+      "authors": "Stephan K. Chalup,Lukasz Wiklendt",
+      "overall_score": 0.28922952606709046,
+      "paper_id": "39116",
+      "title": "Variations of the two-spiral task",
+      "year": "2007"
+    },
+    {
+      "authors": "Alexander Kostin",
+      "overall_score": 0.2870594732990997,
+      "paper_id": "13755",
+      "title": "A simple and fast multi-class piecewise linear pattern classifier",
+      "year": "2006"
+    },
+    {
+      "authors": "A. Salappa,M. Doumpos,C. Zopounidis",
+      "overall_score": 0.28555191158243465,
+      "paper_id": "45459",
+      "title": "Feature selection algorithms in classification problems: an experimental evaluation",
+      "year": "2007"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.2846410703522772,
+      "paper_id": "250081",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Leticia I. Gomez,Alejandro A. Vaisman",
+      "overall_score": 0.2846031612745373,
+      "paper_id": "59322",
+      "title": "Efficient constraint evaluation in categorical sequential pattern mining for trajectory databases",
+      "year": "2009"
+    },
+    {
+      "authors": "Tzung-Pei Hong,Cheng-Ming Huang,Shi-Jinn Horng",
+      "overall_score": 0.28303852741787977,
+      "paper_id": "50852",
+      "title": "Linguistic object-oriented web-usage mining",
+      "year": "2008"
+    },
+    {
+      "authors": "Yi-Hung Wu Chia-Ming Chiang Arbee L. P. Chen",
+      "overall_score": 0.2825929484688221,
+      "paper_id": "32346",
+      "title": "Hiding Sensitive Association Rules with Limited Side Effects",
+      "year": "2007"
+    },
+    {
+      "authors": "Chih-Ping Wei,Hsueh-Ching Chen,Tsang-Hsiang Cheng",
+      "overall_score": 0.2824201160423991,
+      "paper_id": "49338",
+      "title": "Effective spam filtering: A single-class learning and ensemble approach",
+      "year": "2008"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.28237035841345764,
+      "paper_id": "620765",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.280189930141966,
+      "paper_id": "162102",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Pietari Pulkkinen,Mikko Laurikkala,Aino Ropponen,Hannu Koivisto",
+      "overall_score": 0.2796544123381131,
+      "paper_id": "42581",
+      "title": "Quality management in GPRS networks with fuzzy case-based reasoning",
+      "year": "2008"
+    },
+    {
+      "authors": "Patrick Juola",
+      "overall_score": 0.2795871353372074,
+      "paper_id": "39511",
+      "title": "Authorship attribution",
+      "year": "2006"
+    },
+    {
+      "authors": "Sherry Y. Chen,Xiaohui Liu",
+      "overall_score": 0.27937645929121296,
+      "paper_id": "38720",
+      "title": "An Integrated Approach for Modeling Learning Patterns of Students in Web-Based Instruction: A Cognitive Style Perspective",
+      "year": "2008"
+    },
+    {
+      "authors": "Jun Wang,Xiaobo Zhou,Fuhai Li,Pamela L. Bradley,Shih-Fu Chang,Norbert Perrimon,Stephen T. C. Wong",
+      "overall_score": 0.27921427366936086,
+      "paper_id": "73056",
+      "title": "An image score inference system for RNAi genome-wide screening based on fuzzy mixture regression modeling",
+      "year": "2009"
+    },
+    {
+      "authors": "Yuh-Jiuan Tsay,Tain-Jung Hsu,Jing-Rung Yu",
+      "overall_score": 0.27802267913396794,
+      "paper_id": "59559",
+      "title": "FIUT: A new method for mining frequent itemsets",
+      "year": "2009"
+    },
+    {
+      "authors": "Ming-Yen Lin,Sue-Chen Hsueh,Sheng-Kun Hwang",
+      "overall_score": 0.27761007881367517,
+      "paper_id": "40427",
+      "title": "Interactive mining of frequent itemsets over arbitrary time intervals in a data stream",
+      "year": "2008"
+    },
+    {
+      "authors": "Zakaria Suliman Zubi",
+      "overall_score": 0.2773692026498456,
+      "paper_id": "58348",
+      "title": "Knowledge discovery query language (KDQL)",
+      "year": "2008"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.27669885385855003,
+      "paper_id": "531457",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "",
+      "overall_score": 0.27661705343769477,
+      "paper_id": "584715",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Kar-Ann Toh",
+      "overall_score": 0.2748357993922674,
+      "paper_id": "34231",
+      "title": "Training a reciprocal-sigmoid classifier by feature scaling-space",
+      "year": "2006"
+    },
+    {
+      "authors": "Thomas Sudkamp",
+      "overall_score": 0.27462567278020117,
+      "paper_id": "39765",
+      "title": "Refinement of temporal constraints in fuzzy associations",
+      "year": "2008"
+    },
+    {
+      "authors": "Raymond Y. K. Lau,Yuefeng Li,Dawei Song,Ron Chi Wai Kwok",
+      "overall_score": 0.2709229284791737,
+      "paper_id": "51937",
+      "title": "Knowledge discovery for adaptive negotiation agents in e-marketplaces",
+      "year": "2008"
+    },
+    {
+      "authors": "Jian Tang",
+      "overall_score": 0.2705576055893968,
+      "paper_id": "88425",
+      "title": "Using incremental pruning to increase the efficiency of dynamic itemset counting for mining association rules",
+      "year": "1998"
+    },
+    {
+      "authors": "",
+      "overall_score": 0.26960259767498407,
+      "paper_id": "601824",
+      "title": "",
+      "year": ""
+    },
+    {
+      "authors": "Chan-Yun Yang,Che-Chang Hsu,Jr-Syu Yang",
+      "overall_score": 0.2689282421768292,
+      "paper_id": "61285",
+      "title": "Stray Example Sheltering by Loss Regularized SVM and kNN Preprocessor",
+      "year": "2009"
+    },
+    {
+      "authors": "Hatim A. Aboalsamh,Alaaeldin M. Hafez,Ghazy M. R. Assassa",
+      "overall_score": 0.2647550973367445,
+      "paper_id": "56712",
+      "title": "An efficient time series data mining technique",
+      "year": "2008"
+    },
+    {
+      "authors": "Saul C. Leite,Raul Fonseca Neto",
+      "overall_score": 0.2621330030577744,
+      "paper_id": "53896",
+      "title": "Incremental margin algorithm for large margin classifiers",
+      "year": "2008"
+    },
+    {
+      "authors": "Olivier Vandecruys,David Martens,Bart Baesens,Christophe Mues,Manu De Backer,Raf Haesen",
+      "overall_score": 0.2597244727151996,
+      "paper_id": "52563",
+      "title": "Mining software repositories for comprehensible software fault prediction models",
+      "year": "2008"
+    },
+    {
+      "authors": "Jieping Ye,Ravi Janardan,Qi Li",
+      "overall_score": 0.2593845048741659,
+      "paper_id": "27023",
+      "title": "Feature Reduction via Generalized Uncorrelated Linear Discriminant Analysis",
+      "year": "2006"
+    },
+    {
+      "authors": "Andrzej Skowron",
+      "overall_score": 0.25898923825715164,
+      "paper_id": "21084",
+      "title": "Approximate Reasoning in MAS: Rough Set Approach",
+      "year": "2006"
+    },
+    {
+      "authors": "Amir Ahmad,Lipika Dey",
+      "overall_score": 0.2583563270843416,
+      "paper_id": "56",
+      "title": "A method to compute distance between two categorical values of same attribute in unsupervised learning for categorical data set",
+      "year": "2007"
+    },
+    {
+      "authors": "Naoto Abe,Mineichi Kudo",
+      "overall_score": 0.2566030211784293,
+      "paper_id": "4195",
+      "title": "Non-parametric classifier-independent feature selection",
+      "year": "2006"
+    }
+  ],
+  "subgraph": {
+    "directed": true,
+    "graph": {},
+    "links": [
+      {
+        "source": "95174",
+        "target": "207703"
+      },
+      {
+        "source": "95174",
+        "target": "362949"
+      },
+      {
+        "source": "24320",
+        "target": "362949"
+      },
+      {
+        "source": "24320",
+        "target": "214951"
+      },
+      {
+        "source": "24320",
+        "target": "586607"
+      },
+      {
+        "source": "50852",
+        "target": "207703"
+      },
+      {
+        "source": "50852",
+        "target": "362949"
+      },
+      {
+        "source": "81883",
+        "target": "207703"
+      },
+      {
+        "source": "81883",
+        "target": "362949"
+      },
+      {
+        "source": "44568",
+        "target": "362949"
+      },
+      {
+        "source": "44568",
+        "target": "81883"
+      },
+      {
+        "source": "58348",
+        "target": "207703"
+      },
+      {
+        "source": "50269",
+        "target": "362949"
+      },
+      {
+        "source": "50269",
+        "target": "214951"
+      },
+      {
+        "source": "26418",
+        "target": "207703"
+      },
+      {
+        "source": "26418",
+        "target": "362949"
+      },
+      {
+        "source": "26418",
+        "target": "81883"
+      },
+      {
+        "source": "93604",
+        "target": "207703"
+      },
+      {
+        "source": "93604",
+        "target": "362949"
+      },
+      {
+        "source": "98154",
+        "target": "81883"
+      },
+      {
+        "source": "98154",
+        "target": "207703"
+      },
+      {
+        "source": "98154",
+        "target": "362949"
+      },
+      {
+        "source": "32346",
+        "target": "207703"
+      },
+      {
+        "source": "32346",
+        "target": "362949"
+      },
+      {
+        "source": "59055",
+        "target": "207703"
+      },
+      {
+        "source": "59055",
+        "target": "362949"
+      },
+      {
+        "source": "51937",
+        "target": "362949"
+      },
+      {
+        "source": "51937",
+        "target": "311413"
+      },
+      {
+        "source": "52563",
+        "target": "214951"
+      },
+      {
+        "source": "52563",
+        "target": "586607"
+      },
+      {
+        "source": "31335",
+        "target": "362949"
+      },
+      {
+        "source": "31335",
+        "target": "214951"
+      },
+      {
+        "source": "31335",
+        "target": "586607"
+      },
+      {
+        "source": "56",
+        "target": "207703"
+      },
+      {
+        "source": "56",
+        "target": "362949"
+      },
+      {
+        "source": "87081",
+        "target": "311413"
+      },
+      {
+        "source": "87081",
+        "target": "586607"
+      },
+      {
+        "source": "73532",
+        "target": "8300"
+      },
+      {
+        "source": "73532",
+        "target": "620759"
+      },
+      {
+        "source": "73532",
+        "target": "311413"
+      },
+      {
+        "source": "73532",
+        "target": "455254"
+      },
+      {
+        "source": "73532",
+        "target": "214951"
+      },
+      {
+        "source": "39287",
+        "target": "311413"
+      },
+      {
+        "source": "39287",
+        "target": "586607"
+      },
+      {
+        "source": "83780",
+        "target": "77493"
+      },
+      {
+        "source": "83780",
+        "target": "81883"
+      },
+      {
+        "source": "83780",
+        "target": "207703"
+      },
+      {
+        "source": "83780",
+        "target": "362949"
+      },
+      {
+        "source": "53896",
+        "target": "311413"
+      },
+      {
+        "source": "53896",
+        "target": "586607"
+      },
+      {
+        "source": "92489",
+        "target": "207703"
+      },
+      {
+        "source": "92489",
+        "target": "362949"
+      },
+      {
+        "source": "77493",
+        "target": "207703"
+      },
+      {
+        "source": "77493",
+        "target": "362949"
+      },
+      {
+        "source": "61285",
+        "target": "586607"
+      },
+      {
+        "source": "61285",
+        "target": "311413"
+      },
+      {
+        "source": "61285",
+        "target": "584715"
+      },
+      {
+        "source": "90116",
+        "target": "207703"
+      },
+      {
+        "source": "90116",
+        "target": "362949"
+      },
+      {
+        "source": "4195",
+        "target": "586607"
+      },
+      {
+        "source": "4195",
+        "target": "214951"
+      },
+      {
+        "source": "62135",
+        "target": "207703"
+      },
+      {
+        "source": "62135",
+        "target": "214951"
+      },
+      {
+        "source": "62135",
+        "target": "586607"
+      },
+      {
+        "source": "96172",
+        "target": "81883"
+      },
+      {
+        "source": "96172",
+        "target": "207703"
+      },
+      {
+        "source": "96172",
+        "target": "362949"
+      },
+      {
+        "source": "73056",
+        "target": "311413"
+      },
+      {
+        "source": "73056",
+        "target": "586607"
+      },
+      {
+        "source": "73056",
+        "target": "620759"
+      },
+      {
+        "source": "85327",
+        "target": "311413"
+      },
+      {
+        "source": "85327",
+        "target": "616075"
+      },
+      {
+        "source": "85327",
+        "target": "214951"
+      },
+      {
+        "source": "73592",
+        "target": "362949"
+      },
+      {
+        "source": "73592",
+        "target": "214951"
+      },
+      {
+        "source": "61582",
+        "target": "620759"
+      },
+      {
+        "source": "61582",
+        "target": "311413"
+      },
+      {
+        "source": "61582",
+        "target": "616075"
+      },
+      {
+        "source": "61582",
+        "target": "214951"
+      },
+      {
+        "source": "58921",
+        "target": "8300"
+      },
+      {
+        "source": "58921",
+        "target": "214951"
+      },
+      {
+        "source": "58921",
+        "target": "311413"
+      },
+      {
+        "source": "54775",
+        "target": "8300"
+      },
+      {
+        "source": "54775",
+        "target": "601824"
+      },
+      {
+        "source": "54775",
+        "target": "311413"
+      },
+      {
+        "source": "54775",
+        "target": "214951"
+      },
+      {
+        "source": "49338",
+        "target": "214951"
+      },
+      {
+        "source": "49338",
+        "target": "586607"
+      },
+      {
+        "source": "29365",
+        "target": "207703"
+      },
+      {
+        "source": "29365",
+        "target": "362949"
+      },
+      {
+        "source": "29365",
+        "target": "92489"
+      },
+      {
+        "source": "32356",
+        "target": "207703"
+      },
+      {
+        "source": "32356",
+        "target": "362949"
+      },
+      {
+        "source": "27989",
+        "target": "362949"
+      },
+      {
+        "source": "27989",
+        "target": "214951"
+      },
+      {
+        "source": "27989",
+        "target": "586607"
+      },
+      {
+        "source": "64227",
+        "target": "207703"
+      },
+      {
+        "source": "64227",
+        "target": "362949"
+      },
+      {
+        "source": "47165",
+        "target": "584715"
+      },
+      {
+        "source": "47165",
+        "target": "214951"
+      },
+      {
+        "source": "47165",
+        "target": "586607"
+      },
+      {
+        "source": "53527",
+        "target": "207703"
+      },
+      {
+        "source": "53527",
+        "target": "362949"
+      },
+      {
+        "source": "86564",
+        "target": "207703"
+      },
+      {
+        "source": "86564",
+        "target": "362949"
+      },
+      {
+        "source": "13755",
+        "target": "214951"
+      },
+      {
+        "source": "13755",
+        "target": "311413"
+      },
+      {
+        "source": "34231",
+        "target": "620759"
+      },
+      {
+        "source": "34231",
+        "target": "601824"
+      },
+      {
+        "source": "34231",
+        "target": "311413"
+      },
+      {
+        "source": "34231",
+        "target": "616075"
+      },
+      {
+        "source": "83787",
+        "target": "207703"
+      },
+      {
+        "source": "83787",
+        "target": "362949"
+      },
+      {
+        "source": "42581",
+        "target": "311413"
+      },
+      {
+        "source": "42581",
+        "target": "214951"
+      },
+      {
+        "source": "39765",
+        "target": "207703"
+      },
+      {
+        "source": "39765",
+        "target": "362949"
+      },
+      {
+        "source": "70274",
+        "target": "207703"
+      },
+      {
+        "source": "70274",
+        "target": "362949"
+      },
+      {
+        "source": "70274",
+        "target": "81883"
+      },
+      {
+        "source": "56712",
+        "target": "207703"
+      },
+      {
+        "source": "56712",
+        "target": "362949"
+      },
+      {
+        "source": "22754",
+        "target": "207703"
+      },
+      {
+        "source": "22754",
+        "target": "362949"
+      },
+      {
+        "source": "22754",
+        "target": "81883"
+      },
+      {
+        "source": "38720",
+        "target": "362949"
+      },
+      {
+        "source": "38720",
+        "target": "214951"
+      },
+      {
+        "source": "39511",
+        "target": "214951"
+      },
+      {
+        "source": "39511",
+        "target": "586607"
+      },
+      {
+        "source": "88425",
+        "target": "77493"
+      },
+      {
+        "source": "88425",
+        "target": "81883"
+      },
+      {
+        "source": "88425",
+        "target": "362949"
+      },
+      {
+        "source": "47051",
+        "target": "207703"
+      },
+      {
+        "source": "47051",
+        "target": "362949"
+      },
+      {
+        "source": "98006",
+        "target": "207703"
+      },
+      {
+        "source": "98006",
+        "target": "214951"
+      },
+      {
+        "source": "59322",
+        "target": "207703"
+      },
+      {
+        "source": "59322",
+        "target": "362949"
+      },
+      {
+        "source": "21084",
+        "target": "311413"
+      },
+      {
+        "source": "21084",
+        "target": "586607"
+      },
+      {
+        "source": "92312",
+        "target": "207703"
+      },
+      {
+        "source": "92312",
+        "target": "362949"
+      },
+      {
+        "source": "40427",
+        "target": "207703"
+      },
+      {
+        "source": "40427",
+        "target": "362949"
+      },
+      {
+        "source": "27023",
+        "target": "311413"
+      },
+      {
+        "source": "27023",
+        "target": "586607"
+      },
+      {
+        "source": "77404",
+        "target": "207703"
+      },
+      {
+        "source": "77404",
+        "target": "362949"
+      },
+      {
+        "source": "50568",
+        "target": "207703"
+      },
+      {
+        "source": "50568",
+        "target": "362949"
+      },
+      {
+        "source": "50568",
+        "target": "92489"
+      },
+      {
+        "source": "67868",
+        "target": "207703"
+      },
+      {
+        "source": "67868",
+        "target": "362949"
+      },
+      {
+        "source": "12506",
+        "target": "601824"
+      },
+      {
+        "source": "12506",
+        "target": "214951"
+      },
+      {
+        "source": "12506",
+        "target": "586607"
+      },
+      {
+        "source": "28474",
+        "target": "362949"
+      },
+      {
+        "source": "28474",
+        "target": "207703"
+      },
+      {
+        "source": "28474",
+        "target": "81883"
+      },
+      {
+        "source": "65903",
+        "target": "214951"
+      },
+      {
+        "source": "65903",
+        "target": "207703"
+      },
+      {
+        "source": "65903",
+        "target": "362949"
+      },
+      {
+        "source": "67653",
+        "target": "311413"
+      },
+      {
+        "source": "67653",
+        "target": "214951"
+      },
+      {
+        "source": "39991",
+        "target": "8300"
+      },
+      {
+        "source": "39991",
+        "target": "601824"
+      },
+      {
+        "source": "39991",
+        "target": "214951"
+      },
+      {
+        "source": "25552",
+        "target": "311413"
+      },
+      {
+        "source": "25552",
+        "target": "214951"
+      },
+      {
+        "source": "25552",
+        "target": "586607"
+      },
+      {
+        "source": "36803",
+        "target": "207703"
+      },
+      {
+        "source": "36803",
+        "target": "92489"
+      },
+      {
+        "source": "36803",
+        "target": "81883"
+      },
+      {
+        "source": "37531",
+        "target": "311413"
+      },
+      {
+        "source": "37531",
+        "target": "586607"
+      },
+      {
+        "source": "39116",
+        "target": "214951"
+      },
+      {
+        "source": "39116",
+        "target": "586607"
+      },
+      {
+        "source": "35342",
+        "target": "8300"
+      },
+      {
+        "source": "35342",
+        "target": "601824"
+      },
+      {
+        "source": "35342",
+        "target": "214951"
+      },
+      {
+        "source": "59559",
+        "target": "362949"
+      },
+      {
+        "source": "59559",
+        "target": "81883"
+      },
+      {
+        "source": "57533",
+        "target": "8300"
+      },
+      {
+        "source": "57533",
+        "target": "311413"
+      },
+      {
+        "source": "57533",
+        "target": "246511"
+      },
+      {
+        "source": "57533",
+        "target": "214951"
+      },
+      {
+        "source": "28961",
+        "target": "207703"
+      },
+      {
+        "source": "28961",
+        "target": "362949"
+      },
+      {
+        "source": "45459",
+        "target": "214951"
+      },
+      {
+        "source": "45459",
+        "target": "311413"
+      },
+      {
+        "source": "59170",
+        "target": "362949"
+      },
+      {
+        "source": "59170",
+        "target": "207703"
+      }
+    ],
+    "multigraph": false,
+    "nodes": [
+      {
+        "authors": "Mohammed Javeed Zaki,Srinivasan Parthasarathy,Wei Li",
+        "id": "95174",
+        "title": "A localized algorithm for parallel association mining",
+        "venue": "Proceedings of the ninth annual ACM symposium on Parallel algorithms and architectures",
+        "year": "1997"
+      },
+      {
+        "authors": "Kaidi Zhao,Bing Liu,Jeffrey Benkler,Weimin Xiao",
+        "id": "24320",
+        "title": "Opportunity map: identifying causes of failure - a deployed data mining system",
+        "venue": "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+        "year": "2006"
+      },
+      {
+        "authors": "Tzung-Pei Hong,Cheng-Ming Huang,Shi-Jinn Horng",
+        "id": "50852",
+        "title": "Linguistic object-oriented web-usage mining",
+        "venue": "International Journal of Approximate Reasoning",
+        "year": "2008"
+      },
+      {
+        "authors": "Sergey Brin,Rajeev Motwani,Jeffrey D. Ullman,Shalom Tsur",
+        "id": "81883",
+        "title": "Dynamic itemset counting and implication rules for market basket data",
+        "venue": "ACM SIGMOD Record",
+        "year": "1997"
+      },
+      {
+        "authors": "Anthony J. T. Lee,Chun-Sheng Wang,Wan-Yu Weng,Yi-An Chen,Huei-Wen Wu",
+        "id": "44568",
+        "title": "An efficient algorithm for mining closed inter-transaction itemsets",
+        "venue": "Data Knowledge Engineering",
+        "year": "2008"
+      },
+      {
+        "authors": "Zakaria Suliman Zubi",
+        "id": "58348",
+        "title": "Knowledge discovery query language (KDQL)",
+        "venue": "Proceedings of the 12th WSEAS international conference on Computers",
+        "year": "2008"
+      },
+      {
+        "id": "246511"
+      },
+      {
+        "authors": "Themis P. Exarchos,Markos G. Tsipouras,Costas Papaloukas,Dimitrios I. Fotiadis",
+        "id": "50269",
+        "title": "A two-stage methodology for sequence classification based on sequential pattern mining and optimization",
+        "venue": "Data Knowledge Engineering",
+        "year": "2008"
+      },
+      {
+        "authors": "Son N. Nguyen,Maria E. Orlowska",
+        "id": "26418",
+        "title": "A further study in the data partitioning approach for frequent itemsets mining",
+        "venue": "Proceedings of the 17th Australasian Database Conference - Volume 49",
+        "year": "2006"
+      },
+      {
+        "authors": "Keith C. C. Chan,Wai-Ho Au",
+        "id": "93604",
+        "title": "Mining fuzzy association rules",
+        "venue": "Proceedings of the sixth international conference on Information and knowledge management",
+        "year": "1997"
+      },
+      {
+        "id": "178287"
+      },
+      {
+        "authors": "Floris Geerts,Bart Goethals,Jan Van Den Bussche",
+        "id": "98154",
+        "title": "Tight upper bounds on the number of candidate patterns",
+        "venue": "ACM Transactions on Database Systems (TODS)",
+        "year": "2005"
+      },
+      {
+        "authors": "Yi-Hung Wu Chia-Ming Chiang Arbee L. P. Chen",
+        "id": "32346",
+        "title": "Hiding Sensitive Association Rules with Limited Side Effects",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": "2007"
+      },
+      {
+        "authors": "R V Nataraj,S Selvan",
+        "id": "59055",
+        "title": "A framework for mining top-k frequent closed itemsets using order preserving generators",
+        "venue": "Proceedings of the 2nd Bangalore Annual Compute Conference",
+        "year": "2009"
+      },
+      {
+        "authors": "Raymond Y. K. Lau,Yuefeng Li,Dawei Song,Ron Chi Wai Kwok",
+        "id": "51937",
+        "title": "Knowledge discovery for adaptive negotiation agents in e-marketplaces",
+        "venue": "Decision Support Systems",
+        "year": "2008"
+      },
+      {
+        "authors": "Olivier Vandecruys,David Martens,Bart Baesens,Christophe Mues,Manu De Backer,Raf Haesen",
+        "id": "52563",
+        "title": "Mining software repositories for comprehensible software fault prediction models",
+        "venue": "Journal of Systems and Software",
+        "year": "2008"
+      },
+      {
+        "authors": "Bing Liu,Kaidi Zhao,Jeffrey Benkler,Weimin Xiao",
+        "id": "31335",
+        "title": "Rule interestingness analysis using OLAP operations",
+        "venue": "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+        "year": "2006"
+      },
+      {
+        "authors": "Amir Ahmad,Lipika Dey",
+        "id": "56",
+        "title": "A method to compute distance between two categorical values of same attribute in unsupervised learning for categorical data set",
+        "venue": "Pattern Recognition Letters",
+        "year": "2007"
+      },
+      {
+        "authors": "Ethem Alpaydin",
+        "id": "87081",
+        "title": "Voting over Multiple Condensed Nearest Neighbors",
+        "venue": "Artificial Intelligence Review",
+        "year": "1997"
+      },
+      {
+        "id": "455254"
+      },
+      {
+        "id": "620759"
+      },
+      {
+        "authors": "Aritz Pérez,Pedro Larraòaga,Iòaki Inza",
+        "id": "73532",
+        "title": "Bayesian classifiers based on kernel density estimation: Flexible classifiers",
+        "venue": "International Journal of Approximate Reasoning",
+        "year": "2009"
+      },
+      {
+        "id": "620765"
+      },
+      {
+        "authors": "A. Z. Kouzani",
+        "id": "39287",
+        "title": "Classification of face images using local iterated function systems",
+        "venue": "Machine Vision and Applications",
+        "year": "2008"
+      },
+      {
+        "authors": "Lilian Harada,Naoki Akaboshi,Kazutaka Ogihara,Riichiro Take",
+        "id": "83780",
+        "title": "Dynamic skew handling in parallel mining of association rules",
+        "venue": "Proceedings of the seventh international conference on Information and knowledge management",
+        "year": "1998"
+      },
+      {
+        "id": "232309"
+      },
+      {
+        "authors": "Saul C. Leite,Raul Fonseca Neto",
+        "id": "53896",
+        "title": "Incremental margin algorithm for large margin classifiers",
+        "venue": "Neurocomputing",
+        "year": "2008"
+      },
+      {
+        "id": "586607"
+      },
+      {
+        "authors": "Sergey Brin,Rajeev Motwani,Craig Silverstein",
+        "id": "92489",
+        "title": "Beyond market baskets: generalizing association rules to correlations",
+        "venue": "Proceedings of the 1997 ACM SIGMOD international conference on Management of data",
+        "year": "1997"
+      },
+      {
+        "authors": "Eui-Hong Han,George Karypis,Vipin Kumar",
+        "id": "77493",
+        "title": "Scalable parallel data mining for association rules",
+        "venue": "Proceedings of the 1997 ACM SIGMOD international conference on Management of data",
+        "year": "1997"
+      },
+      {
+        "authors": "Chan-Yun Yang,Che-Chang Hsu,Jr-Syu Yang",
+        "id": "61285",
+        "title": "Stray Example Sheltering by Loss Regularized SVM and kNN Preprocessor",
+        "venue": "Neural Processing Letters",
+        "year": "2009"
+      },
+      {
+        "id": "162102"
+      },
+      {
+        "authors": "Charų C. Aggarwal,Zheng Sun,Philip S. Yu",
+        "id": "90116",
+        "title": "Online algorithms for finding profile association rules",
+        "venue": "Proceedings of the seventh international conference on Information and knowledge management",
+        "year": "1998"
+      },
+      {
+        "id": "584715"
+      },
+      {
+        "authors": "Naoto Abe,Mineichi Kudo",
+        "id": "4195",
+        "title": "Non-parametric classifier-independent feature selection",
+        "venue": "Pattern Recognition",
+        "year": "2006"
+      },
+      {
+        "id": "311413"
+      },
+      {
+        "authors": "Dimitrios Papakiriakopoulos,Katerina Pramatari,Georgios Doukidis",
+        "id": "62135",
+        "title": "A decision support system for detecting products missing from the shelf based on heuristic rules",
+        "venue": "Decision Support Systems",
+        "year": "2009"
+      },
+      {
+        "authors": "Jong Soo Park,Philip S. Yu,Ming-Syan Chen",
+        "id": "96172",
+        "title": "Mining association rules with adjustable accuracy",
+        "venue": "Proceedings of the sixth international conference on Information and knowledge management",
+        "year": "1997"
+      },
+      {
+        "authors": "Jun Wang,Xiaobo Zhou,Fuhai Li,Pamela L. Bradley,Shih-Fu Chang,Norbert Perrimon,Stephen T. C. Wong",
+        "id": "73056",
+        "title": "An image score inference system for RNAi genome-wide screening based on fuzzy mixture regression modeling",
+        "venue": "Journal of Biomedical Informatics",
+        "year": "2009"
+      },
+      {
+        "authors": "Tom Bylander",
+        "id": "85327",
+        "title": "Learning probabilistically consistent linear threshold functions",
+        "venue": "Proceedings of the tenth annual conference on Computational learning theory",
+        "year": "1997"
+      },
+      {
+        "authors": "Vincent S. Tseng,Chao-Hui Lee",
+        "id": "73592",
+        "title": "Effective temporal data classification by integrating sequential pattern mining and probabilistic induction",
+        "venue": "Expert Systems with Applications: An International Journal",
+        "year": "2009"
+      },
+      {
+        "authors": "Pedro J. García-Laencina,José-Luis Sancho-Gómez,Aníbal R. Figueiras-Vidal,Michel Verleysen",
+        "id": "61582",
+        "title": "K nearest neighbours with mutual information for simultaneous classification and missing data imputation",
+        "venue": "Neurocomputing",
+        "year": "2009"
+      },
+      {
+        "authors": "Wei Li,Marco Canini,Andrew W. Moore,Raffaele Bolla",
+        "id": "58921",
+        "title": "Efficient application identification and the temporal and spatial stability of classification schema",
+        "venue": "Computer Networks: The International Journal of Computer and Telecommunications Networking",
+        "year": "2009"
+      },
+      {
+        "authors": "Qutang Cai,Changshui Zhang,Chunyi Peng",
+        "id": "54775",
+        "title": "Analysis of classification margin for classification accuracy with applications",
+        "venue": "Neurocomputing",
+        "year": "2009"
+      },
+      {
+        "authors": "Chih-Ping Wei,Hsueh-Ching Chen,Tsang-Hsiang Cheng",
+        "id": "49338",
+        "title": "Effective spam filtering: A single-class learning and ensemble approach",
+        "venue": "Decision Support Systems",
+        "year": "2008"
+      },
+      {
+        "authors": "Gregory Buehrer,Srinivasan Parthasarathy,Amol Ghoting",
+        "id": "29365",
+        "title": "Out-of-core frequent pattern mining on a commodity PC",
+        "venue": "Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining",
+        "year": "2006"
+      },
+      {
+        "id": "250081"
+      },
+      {
+        "id": "517247"
+      },
+      {
+        "authors": "Tao Jiang Ah-Hwee Tan",
+        "id": "32356",
+        "title": "Mining Generalized Associations of Semantic Relations from Textual Web Content",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": "2007"
+      },
+      {
+        "id": "362949"
+      },
+      {
+        "authors": "Qiang Yang",
+        "id": "27989",
+        "title": "Extracting Actionable Knowledge from Decision Trees",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": "2007"
+      },
+      {
+        "authors": "Tzung-Pei Hong,Chun-Wei Lin,Yu-Lung Wu",
+        "id": "64227",
+        "title": "Maintenance of fast updated frequent pattern trees for record deletion",
+        "venue": "Computational Statistics Data Analysis",
+        "year": "2009"
+      },
+      {
+        "authors": "Shawkat Ali,Kate Smith-Miles",
+        "id": "47165",
+        "title": "On optimal degree selection for polynomial kernel with support vector machines: Theoretical and empirical investigations",
+        "venue": "International Journal of Knowledge-based and Intelligent Engineering Systems",
+        "year": "2007"
+      },
+      {
+        "authors": "Animesh Adhikari,P. R. Rao",
+        "id": "53527",
+        "title": "Mining conditional patterns in a database",
+        "venue": "Pattern Recognition Letters",
+        "year": "2008"
+      },
+      {
+        "authors": "R. J. Miller,Y. Yang",
+        "id": "86564",
+        "title": "Association rules over interval data",
+        "venue": "ACM SIGMOD Record",
+        "year": "1997"
+      },
+      {
+        "authors": "Alexander Kostin",
+        "id": "13755",
+        "title": "A simple and fast multi-class piecewise linear pattern classifier",
+        "venue": "Pattern Recognition",
+        "year": "2006"
+      },
+      {
+        "authors": "Kar-Ann Toh",
+        "id": "34231",
+        "title": "Training a reciprocal-sigmoid classifier by feature scaling-space",
+        "venue": "Machine Learning",
+        "year": "2006"
+      },
+      {
+        "authors": "Elena Baralis,Giuseppe Psaila",
+        "id": "83787",
+        "title": "Designing Templates for Mining Association Rules",
+        "venue": "Journal of Intelligent Information Systems",
+        "year": "1997"
+      },
+      {
+        "authors": "Pietari Pulkkinen,Mikko Laurikkala,Aino Ropponen,Hannu Koivisto",
+        "id": "42581",
+        "title": "Quality management in GPRS networks with fuzzy case-based reasoning",
+        "venue": "Knowledge-Based Systems",
+        "year": "2008"
+      },
+      {
+        "authors": "Thomas Sudkamp",
+        "id": "39765",
+        "title": "Refinement of temporal constraints in fuzzy associations",
+        "venue": "International Journal of Approximate Reasoning",
+        "year": "2008"
+      },
+      {
+        "authors": "Manisha Agarwal,Manisha Jailia",
+        "id": "70274",
+        "title": "An interactive method for generalized association rule mining using FP-tree",
+        "venue": "Proceedings of the 2nd Bangalore Annual Compute Conference",
+        "year": "2009"
+      },
+      {
+        "id": "207703"
+      },
+      {
+        "authors": "Hatim A. Aboalsamh,Alaaeldin M. Hafez,Ghazy M. R. Assassa",
+        "id": "56712",
+        "title": "An efficient time series data mining technique",
+        "venue": "Proceedings of the 12th WSEAS international conference on Computers",
+        "year": "2008"
+      },
+      {
+        "authors": "Carlos Ordonez,Norberto Ezquerra,Cesar A. Santana",
+        "id": "22754",
+        "title": "Constraining and summarizing association rules in medical data",
+        "venue": "Knowledge and Information Systems",
+        "year": "2006"
+      },
+      {
+        "authors": "Sherry Y. Chen,Xiaohui Liu",
+        "id": "38720",
+        "title": "An Integrated Approach for Modeling Learning Patterns of Students in Web-Based Instruction: A Cognitive Style Perspective",
+        "venue": "ACM Transactions on Computer-Human Interaction (TOCHI)",
+        "year": "2008"
+      },
+      {
+        "authors": "Patrick Juola",
+        "id": "39511",
+        "title": "Authorship attribution",
+        "venue": "Foundations and Trends in Information Retrieval",
+        "year": "2006"
+      },
+      {
+        "authors": "Jian Tang",
+        "id": "88425",
+        "title": "Using incremental pruning to increase the efficiency of dynamic itemset counting for mining association rules",
+        "venue": "Proceedings of the seventh international conference on Information and knowledge management",
+        "year": "1998"
+      },
+      {
+        "authors": "Ian H. Witten,Eibe Frank",
+        "id": "8300",
+        "title": "Data Mining: Practical Machine Learning Tools and Techniques, Second Edition (Morgan Kaufmann Series in Data Management Systems)",
+        "venue": "",
+        "year": "2005"
+      },
+      {
+        "id": "613609"
+      },
+      {
+        "authors": "Mehdi Adda,Rokia Missaoui,Petko Valtchev",
+        "id": "47051",
+        "title": "Relation rule mining",
+        "venue": "International Journal of Parallel, Emergent and Distributed Systems",
+        "year": "2007"
+      },
+      {
+        "authors": "Tae-Wan Ryu,Christoph F. Eick",
+        "id": "98006",
+        "title": "A database clustering methodology and tool",
+        "venue": "Information Sciences&mdash;Informatics and Computer Science: An International Journal",
+        "year": "2005"
+      },
+      {
+        "authors": "Leticia I. Gomez,Alejandro A. Vaisman",
+        "id": "59322",
+        "title": "Efficient constraint evaluation in categorical sequential pattern mining for trajectory databases",
+        "venue": "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology",
+        "year": "2009"
+      },
+      {
+        "authors": "Andrzej Skowron",
+        "id": "21084",
+        "title": "Approximate Reasoning in MAS: Rough Set Approach",
+        "venue": "Proceedings of the IEEE/WIC/ACM international conference on Intelligent Agent Technology",
+        "year": "2006"
+      },
+      {
+        "id": "616075"
+      },
+      {
+        "authors": "Lisa Singh,Peter Scheuermann,Bin Chen",
+        "id": "92312",
+        "title": "Generating association rules from semi-structured documents using an extended concept hierarchy",
+        "venue": "Proceedings of the sixth international conference on Information and knowledge management",
+        "year": "1997"
+      },
+      {
+        "authors": "Ming-Yen Lin,Sue-Chen Hsueh,Sheng-Kun Hwang",
+        "id": "40427",
+        "title": "Interactive mining of frequent itemsets over arbitrary time intervals in a data stream",
+        "venue": "Proceedings of the nineteenth conference on Australasian database - Volume 75",
+        "year": "2008"
+      },
+      {
+        "authors": "Hiroshi Ishii,Brygg Ullmer",
+        "id": "91976",
+        "title": "Tangible bits: towards seamless interfaces between people, bits and atoms",
+        "venue": "Proceedings of the SIGCHI conference on Human factors in computing systems",
+        "year": "1997"
+      },
+      {
+        "id": "214951"
+      },
+      {
+        "authors": "Jieping Ye,Ravi Janardan,Qi Li",
+        "id": "27023",
+        "title": "Feature Reduction via Generalized Uncorrelated Linear Discriminant Analysis",
+        "venue": "IEEE Transactions on Knowledge and Data Engineering",
+        "year": "2006"
+      },
+      {
+        "authors": "K.-L. Wu,P. S. Yu,A. Ballman",
+        "id": "77404",
+        "title": "SpeedTracer: a Web usage mining and analysis tool",
+        "venue": "IBM Systems Journal",
+        "year": "1998"
+      },
+      {
+        "authors": "James Cheng,Yiping Ke,Wilfred Ng",
+        "id": "50568",
+        "title": "A survey on algorithms for mining frequent itemsets over data streams",
+        "venue": "Knowledge and Information Systems",
+        "year": "2008"
+      },
+      {
+        "authors": "Hatim A. Aboalsamh",
+        "id": "67868",
+        "title": "A Boolean algebraic framework for association and pattern mining",
+        "venue": "Proceedings of the 12th WSEAS international conference on Computers",
+        "year": "2008"
+      },
+      {
+        "authors": "Zhi-Hua Zhou,Yuan Jiang,Shi-Fu Chen",
+        "id": "12506",
+        "title": "Extracting symbolic rules from trained neural network ensembles",
+        "venue": "AI Communications",
+        "year": "2003"
+      },
+      {
+        "authors": "Qian Wan,Aijun An",
+        "id": "28474",
+        "title": "An efficient approach to mining indirect associations",
+        "venue": "Journal of Intelligent Information Systems",
+        "year": "2006"
+      },
+      {
+        "authors": "Jiuyong Li,Ada Wai-chee Fu,Paul Fahey",
+        "id": "65903",
+        "title": "Efficient discovery of risk patterns in medical data",
+        "venue": "Artificial Intelligence in Medicine",
+        "year": "2009"
+      },
+      {
+        "authors": "Thomas Seidl,Ira Assent,Philipp Kranen,Ralph Krieger,Jennifer Herrmann",
+        "id": "67653",
+        "title": "Indexing density models for incremental learning and anytime classification on data streams",
+        "venue": "Proceedings of the 12th International Conference on Extending Database Technology: Advances in Database Technology",
+        "year": "2009"
+      },
+      {
+        "id": "453387"
+      },
+      {
+        "authors": "J. Zico Kolter,Marcus A. Maloof",
+        "id": "39991",
+        "title": "Dynamic Weighted Majority: An Ensemble Method for Drifting Concepts",
+        "venue": "The Journal of Machine Learning Research",
+        "year": "2007"
+      },
+      {
+        "id": "601824"
+      },
+      {
+        "authors": "Jan Bakus,Mohamed S. Kamel",
+        "id": "25552",
+        "title": "Higher order feature selection for text classification",
+        "venue": "Knowledge and Information Systems",
+        "year": "2006"
+      },
+      {
+        "authors": "Xiaowei Yan,Shichao Zhang,Chengqi Zhang",
+        "id": "36803",
+        "title": "ON DATA STRUCTURES FOR ASSOCIATION RULE DISCOVERY",
+        "venue": "Applied Artificial Intelligence",
+        "year": "2007"
+      },
+      {
+        "authors": "Konrad Rieck,Pavel Laskov",
+        "id": "37531",
+        "title": "Linear-Time Computation of Similarity Measures for Sequential Data",
+        "venue": "The Journal of Machine Learning Research",
+        "year": "2008"
+      },
+      {
+        "id": "531457"
+      },
+      {
+        "authors": "Stephan K. Chalup,Lukasz Wiklendt",
+        "id": "39116",
+        "title": "Variations of the two-spiral task",
+        "venue": "Connection Science",
+        "year": "2007"
+      },
+      {
+        "authors": "Juan J. Rodriguez,Ludmila I. Kuncheva",
+        "id": "35342",
+        "title": "Rotation Forest: A New Classifier Ensemble Method",
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "year": "2006"
+      },
+      {
+        "authors": "Yuh-Jiuan Tsay,Tain-Jung Hsu,Jing-Rung Yu",
+        "id": "59559",
+        "title": "FIUT: A new method for mining frequent itemsets",
+        "venue": "Information Sciences: an International Journal",
+        "year": "2009"
+      },
+      {
+        "authors": "Xiao-Bai Li",
+        "id": "57533",
+        "title": "A Bayesian Approach for Estimating and Replacing Missing Categorical Data",
+        "venue": "Journal of Data and Information Quality (JDIQ)",
+        "year": "2009"
+      },
+      {
+        "authors": "Thomas Legler,Wolfgang Lehner,Andrew Ross",
+        "id": "28961",
+        "title": "Data mining with the SAP NetWeaver BI accelerator",
+        "venue": "Proceedings of the 32nd international conference on Very large data bases",
+        "year": "2006"
+      },
+      {
+        "authors": "A. Salappa,M. Doumpos,C. Zopounidis",
+        "id": "45459",
+        "title": "Feature selection algorithms in classification problems: an experimental evaluation",
+        "venue": "Optimization Methods Software",
+        "year": "2007"
+      },
+      {
+        "authors": "Chun-Wei Lin,Tzung-Pei Hong,Wen-Hsiang Lu",
+        "id": "59170",
+        "title": "The Pre-FUFP algorithm for incremental mining",
+        "venue": "Expert Systems with Applications: An International Journal",
+        "year": "2009"
+      }
+    ]
+  },
+  "success": true
+}
