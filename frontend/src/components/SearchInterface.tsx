@@ -26,7 +26,7 @@ export default function SearchInterface() {
 
   const handleSearch = async () => {
     // const response = await fetch(`your/api/endpoint?number_of_results=10&salsa=${weights.salsa || 0}&hits=${weights.hits}&hits_hub=${weights.hits_hub || 1}&hits_authority=${weights.hits_authority || 1}&pagerank=${weights.pageRank}&eigenvector=${weights.eigenvector || 0}&semantic_similarity=${weights.semanticSimilarity || 0}&publish_date=${weights.publishDate || 0}`)
-    const response = await fetch("public/jon100datajson.json")
+    const response = await fetch("/jon100datajson.json")
     const data: Jon100Data = await response.json()
     setResults(data.results)
     setSubgraph(data.subgraph)
