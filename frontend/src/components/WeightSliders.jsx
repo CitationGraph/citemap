@@ -3,12 +3,12 @@ import { Label } from "@/components/ui/label"
 // import type Weights from "@/types/weights"
 
 const sliderConfig = [
-  { name: 'salsa', label: 'SALSA' },
+  // { name: 'salsa', label: 'SALSA' },
   { name: 'hits', label: 'HITS' },
   { name: 'pageRank', label: 'PageRank' },
-  { name: 'eigenvector', label: 'Eigenvector' },
-  { name: 'semanticSimilarity', label: 'Semantic Similarity' },
-  { name: 'publishDate', label: 'Publish Date' },
+  // { name: 'eigenvector', label: 'Eigenvector' },
+  // { name: 'semanticSimilarity', label: 'Semantic Similarity' },
+  // { name: 'publishDate', label: 'Publish Date' },
 ]
 
 export default function WeightSliders({ weights, setWeights }) {
