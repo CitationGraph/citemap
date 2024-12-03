@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { ResizableHandle, ResizablePanel, ResizablePanelGroup } from "@/components/ui/resizable"
@@ -6,7 +6,7 @@ import WeightSliders from './WeightSliders'
 import SearchResults from './SearchResults'
 import NodeGraph from './NodeGraph'
 import { searchPapers } from 'src/utils/mockapi'
-import type Paper  from 'src/types/paper'
+import type Paper from 'src/types/paper'
 
 export default function SearchInterface() {
   const [query, setQuery] = useState('')
@@ -26,6 +26,14 @@ export default function SearchInterface() {
     setResults(searchResults)
     setHasSearched(true)
   }
+
+  useEffect(() => {
+    const url = "https://citemap-backend.vercel.app/"
+
+    fetch(url)
+      .then((response) => response.json())
+      .then((data) => console.log(data))
+  }, [])
 
   return (
     <div className="flex flex-col h-screen">
