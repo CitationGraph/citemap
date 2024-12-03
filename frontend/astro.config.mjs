@@ -12,6 +12,6 @@ export default defineConfig({
       tailwind({ applyBaseStyles: false })
   ],
 
-  output:"static",
+  output:"server",
   adapter: vercel()
 });
