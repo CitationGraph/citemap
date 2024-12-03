@@ -1,6 +1,7 @@
 import { Slider } from "@/components/ui/slider"
 import { Label } from "@/components/ui/label"
 // import type Weights from "@/types/weights"
+import { useState, useEffect } from "react";
 
 const sliderConfig = [
   // { name: 'salsa', label: 'SALSA' },
@@ -11,13 +12,26 @@ const sliderConfig = [
   // { name: 'publishDate', label: 'Publish Date' },
 ]
 
-export default function WeightSliders({ weights, setWeights }) {
-  const handleSliderChange = (name, value ) => {
-    setWeights((prev) => ({ ...prev, [name]: value[0] }))
+export default function WeightSliders({ weights, setWeights, onChange }) {
+  const [debouncedOnChange, setDebouncedOnChange] = useState(() => onChange);
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      debouncedOnChange();
+    }, 300); // Adjust the delay as needed
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [debouncedOnChange]);
+
+  const handleSliderChange = (name, value) => {
+    setWeights((prev) => ({ ...prev, [name]: value[0] }));
+    setDebouncedOnChange(() => onChange); // Update the debounced function
   }
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-4">
+    <div className="grid grid-cols-1 gap-4">
       {sliderConfig.map(({ name, label }) => (
         <div key={name} className="space-y-1">
           <Label htmlFor={name} className="text-xs flex justify-between">
