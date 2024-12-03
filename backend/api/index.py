@@ -15,7 +15,7 @@ except Exception as e:
 
 @app.route('/')
 def home():
-    return 'Hello World!'
+    return 'Is this thing on? Checking...'
 
 @app.route('/search', methods=['GET'])
 def search_papers():
