@@ -1,6 +1,3 @@
-# citemap
-
-
 # Running the Frontend
 
 ## Prerequisites
