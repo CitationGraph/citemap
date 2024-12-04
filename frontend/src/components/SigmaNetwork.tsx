@@ -11,10 +11,8 @@ function randomColor() {
   return `#${Math.floor(Math.random() * 16777215).toString(16)}`
 }
 
-export default function SigmaNetwork({ topResult,subgraph }: {topResult:any, subgraph: Jon100Data["subgraph"] | undefined }) {
+export default function SigmaNetwork({ topResults, subgraph }: { topResults: Jon100Data['results'], subgraph: Jon100Data["subgraph"] | undefined }) {
   const containerRef = useRef<HTMLDivElement>(null)
-
-  console.log(topResult)
 
   useEffect(() => {
     if (!containerRef.current) return
@@ -25,12 +23,13 @@ export default function SigmaNetwork({ topResult,subgraph }: {topResult:any, sub
     if (!subgraph) return
     // Add nodes to the graph
     subgraph.nodes.forEach((paper) => {
+      const topResult =  topResults.find(result => result.paper_id === paper.id)
       graph.addNode(paper.id, {
-        x: Math.random() * 100,
-        y: Math.random() * 100,
-        size: 5,
+        x: Math.random() * 1,
+        y: Math.random() * 1,
+        size: topResult != undefined ? topResult.overall_score * 20: 3,
         label: paper.title || "Untitled",
-        color: randomColor(),
+        color: topResult != undefined ? randomColor() : 'gray',
       })
     })
 
@@ -41,11 +40,12 @@ export default function SigmaNetwork({ topResult,subgraph }: {topResult:any, sub
 
     // Initialize Sigma
     const renderer = new Sigma(graph, containerRef.current as HTMLElement, {
-      minCameraRatio: 0.1,
-      maxCameraRatio: 10,
+      minCameraRatio: .1,
+      maxCameraRatio: 2,
     })
 
     const camera = renderer.getCamera();
+    camera.ratio = .6
 
     // Initialize the force atlas 2 layout
     const sensibleSettings = forceAtlas2.inferSettings(graph);
@@ -62,5 +62,5 @@ export default function SigmaNetwork({ topResult,subgraph }: {topResult:any, sub
     }
   }, [subgraph])
 
-return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
+  return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
 }

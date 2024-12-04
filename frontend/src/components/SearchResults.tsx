@@ -1,4 +1,5 @@
 import type Paper from "@/types/paper";
+import { useEffect } from "react";
 
 function getColor(score: number): string {
   if (score >= 0.8) return 'text-green-500'; // High score
@@ -12,7 +13,7 @@ export default function SearchResults({ results }: { results: Paper[] }) {
       <h2 className="text-2xl font-semibold mb-4">Citation Explorer with Dynamic Scoring</h2>
       <div className="flex-grow overflow-auto">
         {results.map((paper: Paper, index: number) => (
-          <div key={index} className="border-b py-4">
+          <div key={index} className="border-b py-4 hover:bg-gray-50">
             <h3 className="text-lg font-semibold">{paper.title || "Untitled"}</h3>
             <p className="text-sm">Authors: {paper.authors || "Unknown"}</p>
             <p className="text-sm">Year: {paper.year || "N/A"}</p>

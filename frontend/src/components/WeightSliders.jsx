@@ -6,6 +6,8 @@ import { useState, useEffect } from "react";
 const sliderConfig = [
   // { name: 'salsa', label: 'SALSA' },
   { name: 'hits', label: 'HITS' },
+  { name: "hits_authority", label: "HITS Authority" },
+  { name: "hits_hub", label: "HITS Hub" },
   { name: 'pageRank', label: 'PageRank' },
   // { name: 'eigenvector', label: 'Eigenvector' },
   // { name: 'semanticSimilarity', label: 'Semantic Similarity' },
