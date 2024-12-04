@@ -70,7 +70,7 @@ export default function SearchInterface() {
               type="text"
               placeholder="Enter search query"
               value={query}
-              onChange={(e) => {setQuery(e.target.value); handleSearch()}}
+              onChange={(e) => {setQuery(e.target.value); }}
               className="flex-grow"
             />
             <Button onClick={handleSearch} disabled={isLoading}>Search</Button>
